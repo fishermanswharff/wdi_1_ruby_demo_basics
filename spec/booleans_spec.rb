@@ -53,4 +53,16 @@ describe Booleans do
       end
     end
   end
+
+  context 'OR operator will compare it''s Left Hand Side (LHS) to it''s Right Hand Side (RHS)' do
+    describe 'this_or_that' do
+      it 'if either the LHS or the RHS evaluates to true then the expression will be true' do
+        expect(bools.this_or_that).to eq true
+      end
+    end
+  end
 end
+
+
+
+
