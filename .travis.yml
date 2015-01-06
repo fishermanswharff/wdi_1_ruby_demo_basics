@@ -2,3 +2,5 @@ language: ruby
 rvm:
 - 2.2.0
 script: bundle exec rspec spec
+notifications:
+  slack: ga-students:TACa2ZKRUE9ABcCbLGh2j9Aw
