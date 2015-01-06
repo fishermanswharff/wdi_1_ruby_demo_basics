@@ -5,6 +5,7 @@ describe Looper do
 
   let(:looper) { described_class.new() }
   describe '#while_loops' do
+    
   end
 
   describe '#begin_loops' do
