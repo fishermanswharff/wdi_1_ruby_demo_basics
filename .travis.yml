@@ -3,4 +3,4 @@ rvm:
 - 2.2.0
 script: bundle exec rspec spec
 notifications:
-  webhooks: http://5cb5b87e.ngrok.com/travisreports
+  webhooks: http://4d126c4b.ngrok.com/travisreports
