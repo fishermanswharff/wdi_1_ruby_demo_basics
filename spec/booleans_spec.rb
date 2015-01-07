@@ -2,6 +2,7 @@ require 'spec_helper'
 require_relative '../demo/booleans_done'
 
 describe Booleans do
+  
 
   let(:bools) { described_class.new() }
   

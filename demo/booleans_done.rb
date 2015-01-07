@@ -46,6 +46,10 @@ class Booleans
   def less_than
     33 < 34
   end
+
+  def this_or_that
+    33 < 35 || 56 > 57
+  end
 end
 
 
