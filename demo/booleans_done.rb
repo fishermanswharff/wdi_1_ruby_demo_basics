@@ -52,8 +52,6 @@ class Booleans
   end
 end
 
-
-
 # Less Than Operators (<) (<=)
 # The Less Than operator will compare it's Left Hand Side (LHS) to
 # it's Right Hand Side (RHS).
